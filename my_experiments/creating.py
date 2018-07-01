@@ -1,5 +1,5 @@
 ################################################################################
-# A script that plays around with creating differen tensors
+# A script that plays around with creating different tensors
 ################################################################################
 
 from __future__ import absolute_import
